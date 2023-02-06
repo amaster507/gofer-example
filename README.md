@@ -23,4 +23,4 @@ interface Engine!
 6. Start the production server using the `npm run start` command.
 
 For more information on Developing Channels for gofer Engine, please see the
-gofer (README)[https://github.com/amaster507/gofer]
+gofer [README](https://github.com/amaster507/gofer)
